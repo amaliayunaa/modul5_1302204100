@@ -31,14 +31,13 @@ namespace modul5_1302204100
             user1.AddVideo(video8);
             SayaTubeVideo video9 = new SayaTubeVideo("Review Film Ada Apa Dengan Cinta oleh Yuna");
             user1.AddVideo(video9);
-            SayaTubeVideo video10 = new SayaTubeVideo("Review Film Midnight Sun oleh Yuna");
+            SayaTubeVideo video10 = new SayaTubeVideo("Review Film Midnight Sun dfshfudshfuhdusilhgzuivlrlfvhu ifUSFHSJDFSDJGFHDGFHSGFHDGFHGFHDSSJSJSGFHSGFHDSGDHFSHJDGFHDSGHSFGSHDGFSSGFHDSHGSHFDHSDGFHSDGFSHFDGSHDGFSHDGFHSDGFHSGFHSDGHFGFHDGFHDGFFFFFFFFFFFFSHDJGFHDGFvdhdkhvskdchfsdklfhdslkhgfksdhgkjhsdgklsdhghskgsngklhskghgjkhgjkhflkaureiosjfsdlkdfjlsdkjfdshfjshalfhsfhjkhfbhjkzhflusghfjk oleh Yuna");
             user1.AddVideo(video10);
 
-            //video1.IncreasePlayCount(100);
-
+            video1.IncreasePlayCount(260000020);
             user1.PrintAllVideoPlaycount();
-            Console.WriteLine(user1.GetTotalVideoPlayCount());
-            //user1.GetTotalVideoPlayCount();
+
+
         }
     }
 }
